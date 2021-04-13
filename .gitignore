@@ -1,0 +1,10 @@
+# IDE
+.idea/
+
+# Build
+/cmake-build-*/
+/build/
+
+# Python cache
+__pycache__/
+*.pyc
